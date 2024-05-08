@@ -10,7 +10,7 @@ def main():
     print(f"")
     print_chars(sorted_chars)
     print(f"===============================================================")
-    print(f"Report completed seccessfully!")
+    print(f"Report completed successfully!")
     
 def print_chars(sorted):
     for key, value in sorted.items():
